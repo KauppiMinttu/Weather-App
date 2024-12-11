@@ -18,4 +18,3 @@ Weather forecasting app that provides real-time weather information for any city
 - **HTML5**: Provides the structure of the application.
 - **CSS**: For styling and creating a responsive layout.
 - **JavaScript**: Handles dynamic weather data fetching and updates the user interface.
-- **Weather API**: Fetches real-time weather data to display current conditions.
